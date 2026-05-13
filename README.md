@@ -18,7 +18,7 @@
 
 I build **autonomous AI agents** and **Arabic-first language tools**. Based in Riyadh, with extended work from an offshore platform in the Arabian Gulf — a constraint that shapes my preference for reliable, self-healing, autonomous systems.
 
-I publish under two names: **Ali Alkinani** (علي الكناني) and **Ali Alshehri** (علي الشهري) — same person. *Alkinani* is the tribal affiliation; *Alshehri* is the family surname.
+I publish under two names: **Ali Alkinani** (علي الكناني) and **Ali Alshehri** (علي الشهري) — same person. *Alkinani* is the tribal affiliation to **[قبيلة كنانة (Kinanah tribe)](https://github.com/alialshehriar/kinana)**; *Alshehri* is the family surname from **[بنو شهر (Banu Shahr)](https://github.com/alialshehriar/bani-shahr)** of Asir.
 
 Verified on X as [**@o0a98**](https://x.com/o0a98).
 
@@ -73,6 +73,15 @@ Read more at [**alkinani.live**](https://alkinani.live).
 | [`alkinani-site`](https://github.com/alialshehriar/alkinani-site) | Personal site source for alkinani.live (Vite + React + Tailwind) | TypeScript |
 | [`thermal-guard`](https://github.com/alialshehriar/thermal-guard) | macOS/Linux load-average watchdog that pauses heavy pipelines before your laptop melts | Shell |
 | [`syndra`](https://github.com/alialshehriar/syndra) | AI workflow engine — sibling of Codad | TypeScript |
+
+## Heritage / مرجع قبائلي
+
+I maintain two open-source Arabic-language references on the tribes I descend from:
+
+- [`kinana`](https://github.com/alialshehriar/kinana) — **قبيلة كنانة** — Kinanah tribe (Adnanite, Hijaz origin; includes Quraysh, Banu Bakr, Banu al-Du'al, and others)
+- [`bani-shahr`](https://github.com/alialshehriar/bani-shahr) — **بنو شهر / شَهْران** — Banu Shahr / Shahran tribe (Azd Qahtanite; Asir and Al-Bahah origin)
+
+Both are CC-BY-SA-4.0 and welcome PRs for additions, corrections, and lineage detail.
 
 ---
 
