@@ -67,12 +67,12 @@ Read more at [**alkinani.live**](https://alkinani.live).
 
 | Repo | What it is | Stack |
 |------|-----------|------|
-| [`alkinani-site`](https://github.com/alialshehriar/alkinani-site) | Personal site source (Vite + React + Tailwind) | TypeScript |
-| [`ai-radar`](https://github.com/alialshehriar/ai-radar) | Predictive AI radar — pre-trend signal | Node + SQLite |
+| [`najdi-eval`](https://github.com/alialshehriar/najdi-eval) ⭐ | Voice-authenticity gate for Arabic LLMs — detects Najdi vs Levantine/Egyptian/Iraqi/Maghrebi dialect leak. Used in production by Codad. | Python |
+| [`ai-radar`](https://github.com/alialshehriar/ai-radar) | Predictive AI radar — surfaces tools/models/papers *before* they trend, by tracking growth-rate inflection | Node + SQLite |
 | [`webook-agent-kit`](https://github.com/alialshehriar/webook-agent-kit) | Production-grade Python SDK + CLI + MCP server for the webook (HalaYalla) Ticketing API | Python |
+| [`alkinani-site`](https://github.com/alialshehriar/alkinani-site) | Personal site source for alkinani.live (Vite + React + Tailwind) | TypeScript |
 | [`thermal-guard`](https://github.com/alialshehriar/thermal-guard) | macOS/Linux load-average watchdog that pauses heavy pipelines before your laptop melts | Shell |
-| [`syndra`](https://github.com/alialshehriar/syndra) | AI workflow engine, a sibling of Codad | TypeScript |
-| [`bithrah`](https://github.com/alialshehriar/bithrah) | AI-powered idea empowerment platform for Saudi Arabia | TypeScript |
+| [`syndra`](https://github.com/alialshehriar/syndra) | AI workflow engine — sibling of Codad | TypeScript |
 
 ---
 
